@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Fantasy-game
+Salut tout le monde !
 
-## Getting Started
+🎉 Bienvenue sur le README de notre projet de site web pour notre jeu passionnant en cours de développement ! 🚀
 
-First, run the development server:
+À propos du projet
+Nous sommes ravis de vous présenter notre site web dédié à notre jeu en cours de création. Ce site sera le lieu idéal pour découvrir toutes les dernières nouvelles, avancées et moments excitants de notre jeu palpitant ! 😄
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Objectifs du site
+Notre objectif est de créer une plateforme engageante et amusante où vous pourrez suivre de près l'évolution de notre jeu. Voici quelques-uns de nos objectifs pour le site :
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Informer et Engager : Fournir aux joueurs une source fiable d'informations sur le développement du jeu et les inciter à participer à la communauté.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Transparence : Offrir des informations sur l'avancement du jeu, tout en restant discret pour éviter les spoils.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Communauté : Encourager la création d'une communauté active et engagée autour du jeu, où les joueurs peuvent interagir, partager des idées et fournir des commentaires précieux.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Hype : Créer de l'enthousiasme et du buzz autour du jeu en partageant des aperçus exclusifs, des teasers et des événements spéciaux.
