@@ -31,3 +31,11 @@ body {
     text-wrap: balance;
   }
 }
+
+.outline-text-purple {
+  -webkit-text-stroke: 1.5px rgb(56, 56, 56);
+ }
+ 
+.logo-outline {
+  filter: drop-shadow(0 0 5px gray);
+ }
